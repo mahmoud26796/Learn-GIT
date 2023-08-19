@@ -1,1 +1,3 @@
 # Learn-GIT
+
+## project notes 
